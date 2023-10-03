@@ -21,5 +21,6 @@ npm i node-mailer
 node mail.js
 ```
 
-My Other Projects: https://gannonr.com/downloads
-My Discord Server: https://discord.gg/7P4p9FUZRH
+## Resources:
+* My Other Projects: https://gannonr.com/downloads
+* My Discord Server: https://discord.gg/7P4p9FUZRH
